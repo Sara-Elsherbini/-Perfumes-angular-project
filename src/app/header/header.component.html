@@ -1,0 +1,15 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" routerLink="/Home">Home</a>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link" routerLink="/Shop" >Shop</a>
+      <a class="nav-item nav-link" routerLink="/Login">Log in</a>
+      <a class="nav-item nav-link" routerLink="/Register"><button class="signup">Sign up</button></a>
+      <div>
+        <span routerLink="/cart" style="color: #fff3cd;"><i class="fa-solid fa-bag-shopping fa-lg"></i></span>
+        <span class="cart_value"> {{totalItem}} </span>
+      </div>
+
+    </div>
+  </div>
+</nav>

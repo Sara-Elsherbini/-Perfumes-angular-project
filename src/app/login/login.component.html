@@ -1,0 +1,23 @@
+<form class="w-50 py-6 m-auto" [formGroup]="registerForm" (ngSubmit)=" getRegisterInfo(registerForm)">
+    <h1>Login to our Website</h1>
+    <div class="form-group">
+        <label for="">Email</label>
+        <input [class.is-valid]=" registerForm.get('email')?.errors ==null && 
+             registerForm.get('email')?.touched" formControlName="email" class="form-control my-2" type="text">
+        <p *ngIf=" registerForm.get('email')?.errors !=null && registerForm.get('email')?.touched"
+            class="py-2 text-danger">Email is not Valid</p>
+    </div>
+
+
+    <div class="form-group">
+        <label for="">Password</label>
+        <input [class.is-valid]=" registerForm.get('password')?.errors ==null && 
+             registerForm.get('password')?.touched" formControlName="password" class="form-control my-2" type="text">
+        <p *ngIf=" registerForm.get('password')?.errors !=null && registerForm.get('password')?.touched"
+            class="py-2 text-danger">Password is not Valid</p>
+    </div>
+
+
+
+    <button [disabled]="registerForm.invalid" type="submit " class="btn text-white my-2" style="background-color: #f6812c;">Login</button>
+</form>

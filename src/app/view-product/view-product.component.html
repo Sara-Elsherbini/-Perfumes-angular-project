@@ -1,0 +1,36 @@
+<div class="container">
+    <div class="card">
+        <div class="container-fliud">
+            <div class="wrapper row">
+                <div class="preview col-md-6">
+                    
+                    <div class="preview-pic tab-content">
+                      <div class="tab-pane active" id="pic-1"><img [src]="product.image" style="width: 85%; height: 85%;" /></div>
+                    </div>
+                    
+                </div>
+                <div class="col-md-6">
+                    <h1 class="price"><span>{{product.price}} EGP</span></h1>
+                    <h1>{{product.title}}</h1>
+                    <div>
+                        <div class="stars">
+                            <span class="fa fa-star checked" style="color: #45b6d3;"></span>
+                            <span class="fa fa-star checked" style="color: #45b6d3;"></span>
+                            <span class="fa fa-star checked" style="color: #45b6d3;"></span>
+                            <span class="fa fa-star" style="color: #c7dce2c7;"></span>
+                            <span class="fa fa-star" style="color: #c7dce2c7;"></span><br>
+                        </div>
+                    </div>
+                    <br>
+                    <p class="product-description">{{product.description}}</p>
+                    <p class="vote"><strong>91%</strong> of buyers enjoyed this product! <strong>(87 votes)</strong></p>
+
+                    <div class="action">
+                        <button class="btn my-2" style="background-color: #fff3cd; color: #343a40;">Add to Cart</button>
+                        <button class="like btn btn-default" type="button"><i class="fa-regular fa-heart"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

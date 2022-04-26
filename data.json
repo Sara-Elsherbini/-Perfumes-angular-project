@@ -1,0 +1,170 @@
+[
+    {
+       "id":1,
+       "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+       "price":109.95,
+       "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+       "image":"https://i.ibb.co/SNdc0WK/perfume-bottle-dox7ee1-600.png"
+    },
+    {
+       "id":2,
+       "title":"Mens Casual Premium Slim Fit T-Shirts ",
+       "price":22.3,
+       "description":"Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+       "image":"https://i.ibb.co/xLfmQD8/perfume-bottle-patterned-Dx-V5-RLB-600.png"
+
+    },
+    {
+       "id":3,
+       "title":"Mens Cotton Jacket",
+       "price":55.99,
+       "description":"great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+       "category":"men's clothing",
+       "image":"https://i.ibb.co/phWRcRX/perfume-bottle-QJD92k-A-600.png"
+    },
+    {
+       "id":4,
+       "title":"Mens Casual Slim Fit",
+       "price":15.99,
+       "description":"The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+       "category":"men's clothing",
+       "image":"https://i.ibb.co/265mFxS/perfume-bottle-rvq-Bvx-F-600-1.png"
+    },
+    {
+       "id":5,
+       "title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+       "price":695,
+       "description":"From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+       "category":"jewelery",
+       "image":"https://i.ibb.co/0t9Dg5T/perfume-mdmrv-XF-600.png"
+    },
+    {
+       "id":6,
+       "title":"Solid Gold Petite Micropave ",
+       "price":168,
+       "description":"Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+       "category":"jewelery",
+       "image":"https://i.ibb.co/Qfms8bX/perfume-Vay-RLw2-600.png"
+    },
+    {
+      "id": "7",
+      "title": "ECk One Shock Cologne",
+      "price": 343.70,
+      "description":"Ck One Shock Cologne by Calvin Klein, You will be shocked to smell how refreshing Ck One Shock from Calvin Klein is. This cologne was first released in 2011. It is recommended for casual use, and it opens with notes of fresh cucumber and citrusyclementine. There is also an accord with the distinct aroma of an energy drink. The heart is where you get cardamom, black pepper and black basil. All of this comes on a base consisting of ambrene wood, musk, tobacco and patchouli. , ",
+      "category": "jewelery",
+      "image":"https://cheeryone.com/wp-content/uploads/2021/09/calvin-klein-ck-one-shock-cologne-by-calvin-klein-eau-de-toilette-spray-67-oz200-ml-for-men-brand-new-12259735-0-1.jpg"
+      
+    }
+    ,
+    
+    {
+      "id": "8",
+            "title": "Euphoria by Calvin Klein for Women",
+            "price": 603.40,
+            "description":"The Calvin Klein perfume Euphoria is a sensual oriental floral fragrance that's dark and alluring, combining exotic fruits and intoxicating blooms with amber and warm wood. The opening is a luminous, tart-sweet blend of passion fruit, Japanese apple, pomegranate, and raspberry mingled with fresh nuances of green leaves. Fruity tones mellow and deepen at the heart, merging rose hips, ripe peach, and persimmon with shimmering floral accords of lotus, black orchid, and champaca flower.Black violet, earthy patchouli",
+            "category": "jewelery",
+            "image":"https://www.edpall.com/images/thumbs/0006910_calvin-klein-euphoria-100-ml-edp-women-perfume-original.jpeg"
+          
+    }
+    ,
+    
+    {
+      "id": "9",
+      "title": "Escape Perfume",
+      "price": 403.70,
+      "description":
+        "Escape Perfume by Calvin Klein, Escape is a distinctive, enduring, and familiar fragrance that was released by Calvin Klein in 1991. Its delicate and refreshing floral and fruit melange is perfect for days in the office or nights under the stars It opens with a burst of flowery chamomile accompanied by luscious juicy fruits including apple mandarin melon peachand plum The middle blossoms with more floral notes from freshly picked rose lily-of-the-valley carnation cyclame heliotropeandjasmineAs the drydown ensues animalic musk",
+      "category": "jewelery",
+       "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/904312/1.jpg?5024"
+     
+    }
+
+
+
+
+ ]
+
+ [
+   {
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "image": "https://i.ibb.co/SNdc0WK/perfume-bottle-dox7ee1-600.png",
+    "id": "1"
+   },
+   {
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "image": "https://i.ibb.co/xLfmQD8/perfume-bottle-patterned-Dx-V5-RLB-600.png",
+    "id": "2"
+   },
+   {
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://i.ibb.co/phWRcRX/perfume-bottle-QJD92k-A-600.png",
+    "id": "3"
+   },
+   {
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://i.ibb.co/265mFxS/perfume-bottle-rvq-Bvx-F-600-1.png",
+    "id": "4"
+   },
+   {
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "https://i.ibb.co/0t9Dg5T/perfume-mdmrv-XF-600.png",
+    "id": "5"
+   },
+   {
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://i.ibb.co/Qfms8bX/perfume-Vay-RLw2-600.png",
+    "id": "6"
+   },
+   {
+     
+      "title": "ECk One Shock Cologne",
+      "price":343.70,
+      "description":"Ck One Shock Cologne by Calvin Klein, You will be shocked to smell how refreshing Ck One Shock from Calvin Klein is. This cologne was first released in 2011. It is recommended for casual use, and it opens with notes of fresh cucumber and citrusyclementine. There is also an accord with the distinct aroma of an energy drink. The heart is where you get cardamom, black pepper and black basil. All of this comes on a base consisting of ambrene wood, musk, tobacco and patchouli. , ",
+      "category": "jewelery",
+      "image":"https://cheeryone.com/wp-content/uploads/2021/09/calvin-klein-ck-one-shock-cologne-by-calvin-klein-eau-de-toilette-spray-67-oz200-ml-for-men-brand-new-12259735-0-1.jpg",
+       "id": "7",
+    }
+    ,
+    
+    {
+     
+            "title": "Euphoria by Calvin Klein for Women",
+            "price": 603.40,
+            "description":"The Calvin Klein perfume Euphoria is a sensual oriental floral fragrance that's dark and alluring, combining exotic fruits and intoxicating blooms with amber and warm wood. The opening is a luminous, tart-sweet blend of passion fruit, Japanese apple, pomegranate, and raspberry mingled with fresh nuances of green leaves. Fruity tones mellow and deepen at the heart, merging rose hips, ripe peach, and persimmon with shimmering floral accords of lotus, black orchid, and champaca flower.Black violet, earthy patchouli",
+            "category": "jewelery",
+            "image":"https://www.edpall.com/images/thumbs/0006910_calvin-klein-euphoria-100-ml-edp-women-perfume-original.jpeg",
+            "id": "8",
+    }
+    ,
+    
+    {
+   
+      "title": "Escape Perfume",
+      "price": 403.70,
+      "description":
+        "Escape Perfume by Calvin Klein, Escape is a distinctive, enduring, and familiar fragrance that was released by Calvin Klein in 1991. Its delicate and refreshing floral and fruit melange is perfect for days in the office or nights under the stars It opens with a burst of flowery chamomile accompanied by luscious juicy fruits including apple mandarin melon peachand plum The middle blossoms with more floral notes from freshly picked rose lily-of-the-valley carnation cyclame heliotropeandjasmineAs the drydown ensues animalic musk",
+      "category": "jewelery",
+       "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/904312/1.jpg?5024",
+      "id": "9",
+    }
+
+
+
+
+  ]

@@ -1,0 +1,47 @@
+h1{
+    font-family: 'Roboto Serif', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    color: #fff3cd;
+}
+
+button{
+    margin-top: 30px;
+    padding: 25px 100px;
+    background-color: #fff3cd;
+    color: rgb(52, 58, 64,0.8) ;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+button:hover{
+    background-color: rgb(255, 243, 204,0.7);
+}
+
+p{
+    font-size: 22px;
+    font-weight:normal;
+    color:rgba(255, 255, 255, 0.5);
+    padding: 10px 0px;
+    text-align: center;
+}
+a{
+    font-size: 24px;
+}
+
+img{
+    width: 100%;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-top: 50px;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
